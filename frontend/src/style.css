@@ -1,0 +1,263 @@
+/* Background and layout */
+body {
+    background: linear-gradient(to right, #393939, #1e1e1e);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Chat container box */
+#chat-container {
+    max-width: 650px;
+    background-color: #2b2b2b;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.4);
+    margin-bottom: 40px;
+}
+
+/* Chatbox area */
+.chat-box {
+    height: 400px;
+    overflow-y: auto;
+    background-color: #1f1f1f;
+    border-radius: 10px;
+    padding: 15px;
+    color: #fff;
+    scroll-behavior: smooth;
+}
+
+/* Message bubble styles */
+.message {
+    margin: 10px 0;
+    display: flex;
+}
+
+/* User messages (right, blue) */
+.message.user {
+    justify-content: flex-end;
+}
+
+.message.user span {
+    background-color: #0078ff;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 15px 15px 0 15px;
+    max-width: 70%;
+    word-wrap: break-word;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    text-align: left;
+}
+
+/* Bot messages (left, dark grey) */
+.message.bot {
+    justify-content: flex-start;
+}
+
+.message.bot span {
+    background-color: #3a3a3a;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 15px 15px 15px 0;
+    max-width: 70%;
+    word-wrap: break-word;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    text-align: left;
+}
+
+.complaint-link{
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    text-decoration: underline;
+    cursor: pointer;
+    background: none !important;  
+    padding: 0 !important;      
+    box-shadow: none !important; 
+}
+
+.complaint-link:hover {
+  color: #7b7b7b !important;      
+  transform: scale(1.05); 
+}
+
+/* Input section */
+.input-area {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#userInput {
+    width: 70%;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: #3a3a3a;
+    color: white;
+    padding: 0 10px;
+    margin-right: 10px;
+}
+
+#userInput:focus {
+    outline: none;
+}
+
+
+/* Button style */
+.btn {
+    width: 100px;
+    background-color: #0078ff;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background-color: #0063cc;
+}
+
+
+/* Complaint form container */
+.complaint-container {
+    max-width: 600px;
+    margin-top: 50px;
+    padding: 30px;
+    background-color: #2c2c2c;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000;
+}
+
+/* view complaint form container */
+.viewcomplaints-container {
+    max-width: 100%;
+    margin-top: 50px;
+    padding: 30px;
+    background-color: #2c2c2c;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000;
+}
+
+/* Form headings */
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Form labels */
+.form-label {
+    margin-bottom: 5px;
+    color: #fff;
+}
+
+/* Form textarea */
+textarea.form-control {
+    height: auto;
+}
+
+/* Flash messages */
+.alert {
+    margin-top: 15px;
+}
+
+/* Complaints Page */
+.page-heading {
+    color: white; 
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.complaint-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+
+.complaint-table th, .complaint-table td {
+    border: 1px solid #ddd;
+    padding: 10px 12px;
+    text-align: left;
+}
+
+.complaint-table th {
+    background-color: #3498db;
+    color: white;
+}
+
+.complaint-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.complaint-table tr {
+    background-color: #d1ecf1;
+}
+
+/* Floating Chat Button */
+.chat-float-btn {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background-color: #0078ff;
+  border-radius: 50%;
+  width: 65px;
+  height: 65px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  z-index: 1000;
+}
+.chat-float-btn:hover {
+  transform: scale(1.1);
+  background-color: #0063cc;
+}
+
+/* Card hover effect */
+.product-hover:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(255, 255, 255, 0.15) !important;
+  transition: all 0.3s ease;
+}
+
+.landing-page {
+  background-color: #2b2b2b; /* same theme as your app */
+}
+
+.landing-content {
+  background-color: #1f1f1f; 
+  padding: 50px 40px;
+  border-radius: 15px;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
+  max-width: 900px;  
+  width: 90%;         
+}
+
+.nav-btn{
+    background-color: rgb(73, 72, 72);
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+.toast-container {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 1100;
+}
+.toast {
+  min-width: 240px;
+  max-width: 360px;
+  background: #2c2c2c;
+  color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.5);
+  padding: 12px 14px;
+  margin-top: 8px;
+  border-left: 4px solid #6c757d;
+}
+.toast.success { border-left-color: #28a745; }
+.toast.danger { border-left-color: #dc3545; }
+.toast.warning { border-left-color: #ffc107; color: #fff; }
+.toast-title { font-weight: 600; margin-bottom: 2px; }
+.toast-msg { font-size: 0.95rem; }

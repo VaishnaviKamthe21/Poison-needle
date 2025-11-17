@@ -1,0 +1,997 @@
+question,intent
+How can I create an account?,account_management
+Can I order without creating an account?,account_management
+What payment methods do you accept?,payment_methods
+Can I pay with PayPal?,payment_methods
+How can I track my order?,order_tracking
+What should I do if my package is lost or damaged?,order_tracking
+How long does shipping take?,order_tracking
+Do you offer international shipping?,order_tracking
+What is your return policy?,return_policy
+I want to return my shoes,return_policy
+Can I exchange my shoes?,return_policy
+Can I return a product if I changed my mind?,return_policy
+Can I change or cancel an item in my order?,return_policy
+Do you offer gift wrapping services?,product_info
+Can I order a product as a gift?,product_info
+Can I request a product demonstration before making a purchase?,product_info
+Can I order a product that is out of stock?,product_info
+Can I request a product that is currently out of stock to be restocked?,product_info
+How can I leave a product review?,product_info
+Do you offer installation services for your products?,product_info
+Can I order a product that is labeled as 'limited edition'?,product_info
+Do you have a loyalty program?,offers
+Do you have any discounts?,offers
+Are there any ongoing sales?,offers
+What is your price matching policy?,offers
+What is your price adjustment policy?,offers
+Can I use multiple promo codes on a single order?,offers
+How can I contact customer support?,support_services
+Do you offer live chat support?,support_services
+How can I request an invoice for my order?,support_services
+What should I do if I receive the wrong item?,support_services
+Are my personal and payment details secure?,support_services
+Can I return a product without a receipt?,support_services
+Can I request a product if it is listed as 'discontinued'?,support_services
+Can I request a product if it is listed as 'temporarily unavailable'?,support_services
+Can I request a product if it is listed as 'coming soon'?,support_services
+Can I return a product if it was damaged during shipping?,support_services
+Can I return a product if it was damaged due to improper use?,support_services
+Can I request a product if it is listed as 'out of stock' to be reserved for me?,support_services
+Can I return a product purchased with store credit?,support_services
+Can I return a product purchased with a promotional gift card?,support_services
+Can I order a product for delivery to a different country?,order_tracking
+Can I change my shipping address after placing an order?,order_tracking
+Can I order a product that is listed as 'pre-order' with other in-stock items?,order_tracking
+Can I order a product if it is listed as 'on hold'?,order_tracking
+Can I order a product if it is listed as 'sold out'?,order_tracking
+Can I order a product if it is listed as 'backordered'?,order_tracking
+Can I order a product if it is listed as 'coming soon' and available for pre-order?,order_tracking
+Can I order a product if it is listed as 'coming soon' but not available for pre-order?,order_tracking
+Can I order a product if it is listed as 'pre-order' but available for backorder?,order_tracking
+Do you offer expedited shipping?,order_tracking
+Do you offer bulk or wholesale discounts?,offers
+Can I request a custom order or personalized product?,product_info
+Can I request a product repair or replacement if it is damaged?,support_services
+Can I return a product if it was purchased during a promotional event?,support_services
+Can I return a product if it was a final sale item?,return_policy
+Can I return a product if it was a clearance or final sale item?,return_policy
+Can I order a product without creating an account?,account_management
+Do you accept orders over the phone?,account_management
+Can I cancel my order?,return_policy
+Do you offer gift wrapping services?,product_info
+What is your email newsletter about?,product_info
+Do you offer live chat support?,support_services
+Do you offer international shipping?,order_tracking
+Can I order a product that is discontinued?,product_info
+Can I return a product if I no longer have the original packaging?,return_policy
+Can I request a product if it is listed as 'temporarily unavailable'?,product_info
+Can I return a product if it was damaged due to improper use?,return_policy
+Can I request a product if it is listed as 'coming soon' but not available for pre-order?,product_info
+Can I order a product if it is listed as 'on hold'?,order_tracking
+Can I return a product if I no longer have the original receipt?,return_policy
+Can I request a product that is listed as 'limited edition' to be restocked?,product_info
+Can I order a product if it is listed as 'discontinued' but still visible on the website?,product_info
+Can I request a product that is listed as 'out of stock' to be restocked?,product_info
+Can I return a product if it was purchased as part of a bundle or set?,return_policy
+Can I order a product if it is listed as 'coming soon' and available for pre-order?,order_tracking
+Can I return a product if it was damaged due to mishandling during shipping?,return_policy
+Can I request a product that is listed as 'out of stock' to be reserved for me?,product_info
+Can I order a product if it is listed as 'pre-order' but available for backorder?,order_tracking
+Can I return a product purchased with store credit?,return_policy
+Can I return a product purchased with a promotional gift card?,return_policy
+Can I order a product if it is listed as 'sold out' but available for pre-order?,order_tracking
+Can I return a product if it was purchased with a promotional gift card?,return_policy
+Can I request a product if it is not currently available in my preferred color?,product_info
+Can I order a product if it is listed as 'coming soon' but not available for pre-order?,order_tracking
+Can I return a product if it was purchased during a promotional event?,return_policy
+How can I create an account?,Account
+What’s the process to sign up for an account?,Account
+How do I register on your website?,Account
+Can you tell me how to create a new account?,Account
+I want to make an account; how do I do it?,Account
+Steps for signing up for your platform?,Account
+How do I open a new account?,Account
+Is there a way to register for your service?,Account
+Can I make an account online?,Account
+Can I order without creating an account?,Account
+Do I need an account to place an order?,Account
+Is it possible to buy as a guest?,Account
+Can I purchase without signing up?,Account
+I don’t want to register; can I still order?,Account
+Is account creation mandatory for shopping?,Account
+How can I order without an account?,Account
+Can I checkout as a guest?,Account
+Do I need to make an account to buy?,Account
+What payment methods do you accept?,Payment
+Which payment options are available?,Payment
+Can I pay using PayPal?,Payment
+Do you accept credit cards?,Payment
+Do you take debit cards?,Payment
+Can I use Google Pay to pay?,Payment
+Is Cash on Delivery available?,Payment
+How can I pay for my order?,Payment
+Are online payments supported?,Payment
+What forms of payment are available?,Payment
+How can I track my order?,Order Tracking
+Where is my order?,Order Tracking
+Can I see my shipment status?,Order Tracking
+How do I know where my package is?,Order Tracking
+Is there a way to track my delivery?,Order Tracking
+I want to track my order how?,Order Tracking
+How do I check my order status?,Order Tracking
+What is the status of my shipment?,Order Tracking
+Can I get tracking info for my order?,Order Tracking
+Track my package,Order Tracking
+What is your return policy?,Return/Cancel
+I want to return my order what do I do?,Return/Cancel
+Can I cancel my order?,Return/Cancel
+How can I exchange a product?,Return/Cancel
+Is it possible to return a product?,Return/Cancel
+I need to cancel my purchase,Return/Cancel
+How do I send back an item?,Return/Cancel
+Can I get a refund?,Return/Cancel
+What are the steps to return an item?,Return/Cancel
+Can I change or cancel my order?,Return/Cancel
+How long does shipping take?,Shipping Info
+What are your delivery times?,Shipping Info
+Do you offer international shipping?,Shipping Info
+How quickly will my order arrive?,Shipping Info
+When can I expect my package?,Shipping Info
+Shipping duration for orders?,Shipping Info
+Estimated delivery time?,Shipping Info
+How long is standard shipping?,Shipping Info
+Do you have express shipping?,Shipping Info
+Can I get faster delivery?,Shipping Info
+Do you have any discounts?,Promotions/Offers
+Are there any ongoing sales?,Promotions/Offers
+Can I use promo codes?,Promotions/Offers
+How do I apply a discount?,Promotions/Offers
+What offers are available now?,Promotions/Offers
+Are there special deals today?,Promotions/Offers
+Is there a sale on products?,Promotions/Offers
+How can I get a discount?,Promotions/Offers
+Any promotional offers currently?,Promotions/Offers
+Do you have coupons?,Promotions/Offers
+How can I contact customer support?,Support
+I need help from support,Support
+What is your support email?,Support
+Can I reach support by phone?,Support
+How do I get in touch with customer service?,Support
+Is live chat available for support?,Support
+Who do I contact for help?,Support
+Where can I ask questions?,Support
+I need assistance,Support
+Support contact details,Support
+hi,greeting
+hello,greeting
+hey,greeting
+good morning,greeting
+good evening,greeting
+thank you,gratitude
+thanks,gratitude
+thank you very much,gratitude
+thanks a lot,gratitude
+hi,greeting
+hello,greeting
+hey,greeting
+good morning,greeting
+good afternoon,greeting
+good evening,greeting
+hiya,greeting
+hey there,greeting
+hello there,greeting
+greetings,greeting
+hi there,greeting
+hey hi,greeting
+hello hi,greeting
+morning,greeting
+afternoon,greeting
+evening,greeting
+yo,greeting
+hiya there,greeting
+hello friend,greeting
+hi friend,greeting
+hey buddy,greeting
+hello buddy,greeting
+hi buddy,greeting
+hiya buddy,greeting
+hey pal,greeting
+hello pal,greeting
+hi pal,greeting
+good day,greeting
+hi everyone,greeting
+hello everyone,greeting
+hey everyone,greeting
+hi all,greeting
+hello all,greeting
+hey all,greeting
+morning all,greeting
+afternoon all,greeting
+evening all,greeting
+hi there everyone,greeting
+hey there everyone,greeting
+hello there everyone,greeting
+greetings all,greeting
+hiya all,greeting
+yo there,greeting
+hiya friend,greeting
+hello mate,greeting
+hi mate,greeting
+hey mate,greeting
+morning mate,greeting
+afternoon mate,greeting
+evening mate,greeting
+hi buddy friend,greeting
+hello buddy friend,greeting
+question,intent
+thanks,gratitude
+thank you,gratitude
+thank you so much,gratitude
+thanks a lot,gratitude
+many thanks,gratitude
+thanks very much,gratitude
+thank you very much,gratitude
+thanks a ton,gratitude
+thanks heaps,gratitude
+thanks kindly,gratitude
+thanks buddy,gratitude
+thank you friend,gratitude
+thank you buddy,gratitude
+thanks friend,gratitude
+thanks mate,gratitude
+thank you mate,gratitude
+thanks pal,gratitude
+thank you pal,gratitude
+thanks for your help,gratitude
+thank you for your help,gratitude
+thanks for assisting,gratitude
+thank you for assisting,gratitude
+thanks for the info,gratitude
+thank you for the info,gratitude
+thanks for the guidance,gratitude
+thank you for the guidance,gratitude
+thanks for your support,gratitude
+thank you for your support,gratitude
+thanks for your assistance,gratitude
+thank you for your assistance,gratitude
+thanks a million,gratitude
+thank you a million,gratitude
+thanks loads,gratitude
+thank you loads,gratitude
+thanks very kindly,gratitude
+thank you very kindly,gratitude
+thanks so much,gratitude
+thank you so much indeed,gratitude
+thanks indeed,gratitude
+thank you indeed,gratitude
+thanks for helping,gratitude
+thank you for helping,gratitude
+thanks for your time,gratitude
+thank you for your time,gratitude
+thanks for your effort,gratitude
+thank you for your effort,gratitude
+thanks a bunch,gratitude
+thank you a bunch,gratitude
+thanks a lot buddy,gratitude
+thank you a lot buddy,gratitude
+question,intent
+How can I create an account?,account_management
+How do I sign up?,account_management
+How do I register?,account_management
+How do I open an account?,account_management
+How do I make an account?,account_management
+I want to create an account,account_management
+I want to register,account_management
+I want to sign up,account_management
+Steps to create an account?,account_management
+Steps to sign up?,account_management
+How do I get an account?,account_management
+Can I create an account?,account_management
+Can I sign up?,account_management
+Can I register?,account_management
+How do I make a new account?,account_management
+How do I register a new account?,account_management
+Create account process?,account_management
+Sign up process?,account_management
+Registration process?,account_management
+How do I join?,account_management
+How do I become a member?,account_management
+How do I enroll?,account_management
+I want to open an account,account_management
+I want to join the platform,account_management
+I want to enroll,account_management
+How do I start an account?,account_management
+How do I start using the platform?,account_management
+How do I access the platform?,account_management
+Create a new account,account_management
+Register a new account,account_management
+Sign up for an account,account_management
+Sign up online,account_management
+How do I make an online account?,account_management
+Can I sign up online?,account_management
+Can I register online?,account_management
+I want to create an online account,account_management
+Steps to make an online account?,account_management
+How do I make an account online?,account_management
+How do I sign in first time?,account_management
+How do I set up my account?,account_management
+How do I configure my account?,account_management
+I need an account,account_management
+I need to register,account_management
+I need to sign up,account_management
+Help me create an account,account_management
+Help me register,account_management
+Help me sign up,account_management
+How do I open a new account online?,account_management
+Can I open an account online?,account_management
+How to join the platform?,account_management
+How do I make an account for this platform?,account_management
+question,intent
+Hi,greeting
+Hello,greeting
+Hey,greeting
+Hey there,greeting
+Hi there,greeting
+Hello there,greeting
+Good morning,greeting
+Good afternoon,greeting
+Good evening,greeting
+Greetings,greeting
+Hi how are you?,greeting
+Hello how are you?,greeting
+Hey how’s it going?,greeting
+Hi how’s it going?,greeting
+Hello how’s it going?,greeting
+Hey how are you doing?,greeting
+Hi how are you doing?,greeting
+Hello how are you doing?,greeting
+Hey there how are you?,greeting
+Hi there how are you?,greeting
+Hello there how are you?,greeting
+Good day,greeting
+Hi! Nice to see you,greeting
+Hello! Nice to see you,greeting
+Hey! Nice to see you,greeting
+Hi! How’s your day?,greeting
+Hello! How’s your day?,greeting
+Hey! How’s your day?,greeting
+Hi! How’s everything?,greeting
+Hello! How’s everything?,greeting
+Hey! How’s everything?,greeting
+Hi! How’s life?,greeting
+Hello! How’s life?,greeting
+Hey! How’s life?,greeting
+Hi! What’s up?,greeting
+Hello! What’s up?,greeting
+Hey! What’s up?,greeting
+Hi! How’s it going today?,greeting
+Hello! How’s it going today?,greeting
+Hey! How’s it going today?,greeting
+Hi! How’s your morning?,greeting
+Hello! How’s your morning?,greeting
+Hey! How’s your morning?,greeting
+Hi! How’s your afternoon?,greeting
+Hello! How’s your afternoon?,greeting
+Hey! How’s your afternoon?,greeting
+Hi! How’s your evening?,greeting
+Hello! How’s your evening?,greeting
+Hey! How’s your evening?,greeting
+Hi! Ready to chat?,greeting
+Hello! Ready to chat?,greeting
+Hey! Ready to chat?,greeting
+thanks,gratitude
+thank you,gratitude
+thank you so much,gratitude
+thanks a lot,gratitude
+thanks very much,gratitude
+thanks a ton,gratitude
+many thanks,gratitude
+thank you kindly,gratitude
+thanks kindly,gratitude
+thank you very much,gratitude
+thanks indeed,gratitude
+thank you indeed,gratitude
+much appreciated,gratitude
+thanks I appreciate it,gratitude
+thank you I appreciate it,gratitude
+thanks for your help,gratitude
+thank you for your help,gratitude
+thanks for assisting me,gratitude
+thank you for assisting me,gratitude
+thanks for the info,gratitude
+thank you for the info,gratitude
+thanks for your support,gratitude
+thank you for your support,gratitude
+thanks for your guidance,gratitude
+thank you for your guidance,gratitude
+thanks a million,gratitude
+thank you a million,gratitude
+thanks so much,gratitude
+thank you very kindly,gratitude
+thanks kindly for your help,gratitude
+thank you kindly for your help,gratitude
+thanks appreciate it,gratitude
+thank you appreciate it,gratitude
+thanks for your time,gratitude
+thank you for your time,gratitude
+thanks for everything,gratitude
+thank you for everything,gratitude
+thanks heaps,gratitude
+thank you heaps,gratitude
+thanks a lot for your help,gratitude
+thank you a lot for your help,gratitude
+thanks a bunch,gratitude
+thank you a bunch,gratitude
+thanks for the assistance,gratitude
+thank you for the assistance,gratitude
+thanks for helping me out,gratitude
+thank you for helping me out,gratitude
+thanks for the guidance,gratitude
+thank you for the guidance,gratitude
+thanks a ton for your support,gratitude
+thank you a ton for your support,gratitude
+how can I create an account?,account_management
+how do I create an account?,account_management
+I want to create an account,account_management
+sign me up,account_management
+how do I register?,account_management
+I want to register,account_management
+steps to create an account,account_management
+how to make an account?,account_management
+help me create an account,account_management
+I need to create an account,account_management
+create a new account,account_management
+open a new account,account_management
+register me,account_management
+how can I sign up?,account_management
+sign up for an account,account_management
+I want to sign up,account_management
+how do I make an account?,account_management
+register a new account,account_management
+how to register on your website?,account_management
+account registration process,account_management
+can I create an account?,account_management
+I want to make an account,account_management
+how to open an account?,account_management
+help me sign up,account_management
+guide me to create an account,account_management
+steps for registration,account_management
+how do I start an account?,account_management
+create account for me,account_management
+how can I register?,account_management
+I want an account,account_management
+register on your website,account_management
+how do I join?,account_management
+how do I sign into my account?,account_management
+sign into my account,account_management
+login to my account,account_management
+access my account,account_management
+how can I log in?,account_management
+help me log in,account_management
+account login process,account_management
+login steps,account_management
+how do I sign in?,account_management
+sign in to my account,account_management
+I want to sign in,account_management
+create account online,account_management
+can I register online?,account_management
+how do I open an online account?,account_management
+steps to sign up online,account_management
+I want to register online,account_management
+online account creation,account_management
+how can I open an account online?,account_management
+what payment methods do you accept?,payment_methods
+how can I pay?,payment_methods
+which payment options are available?,payment_methods
+can I pay with credit card?,payment_methods
+can I pay with debit card?,payment_methods
+do you accept PayPal?,payment_methods
+can I use Google Pay?,payment_methods
+can I use Apple Pay?,payment_methods
+what forms of payment do you accept?,payment_methods
+are online payments supported?,payment_methods
+is cash on delivery available?,payment_methods
+how can I pay for my order?,payment_methods
+can I use multiple payment methods?,payment_methods
+do you accept net banking?,payment_methods
+can I pay using UPI?,payment_methods
+what online wallets do you support?,payment_methods
+can I pay via Paytm?,payment_methods
+do you accept gift cards?,payment_methods
+can I pay in installments?,payment_methods
+what are the available payment options?,payment_methods
+how do I pay online?,payment_methods
+can I pay offline?,payment_methods
+is EMI payment available?,payment_methods
+can I pay with a bank transfer?,payment_methods
+do you accept international cards?,payment_methods
+can I pay using a foreign card?,payment_methods
+how do I complete payment?,payment_methods
+what payment gateways are available?,payment_methods
+can I pay on delivery?,payment_methods
+can I pay with a virtual card?,payment_methods
+do you accept mobile wallets?,payment_methods
+is payment by cheque possible?,payment_methods
+do you accept cryptocurrency?,payment_methods
+can I pay with cash?,payment_methods
+can I pay in full or partial?,payment_methods
+what is the payment process?,payment_methods
+how to pay with credit card?,payment_methods
+how to pay with debit card?,payment_methods
+can I pay later?,payment_methods
+how can I use a promo code during payment?,payment_methods
+can I pay using Apple Pay?,payment_methods
+how do I pay via UPI?,payment_methods
+can I use multiple cards for one order?,payment_methods
+is contactless payment supported?,payment_methods
+how can I pay securely?,payment_methods
+can I pay through PayPal?,payment_methods
+what cards do you accept?,payment_methods
+how do I make a payment?,payment_methods
+can I pay via Google Pay?,payment_methods
+what is the payment procedure?,payment_methods
+how do I pay using an online wallet?,payment_methods
+how can I track my order?,order_tracking
+where is my order?,order_tracking
+how do I check my shipment status?,order_tracking
+can I see the status of my order?,order_tracking
+track my package,order_tracking
+what is the status of my delivery?,order_tracking
+how do I know where my package is?,order_tracking
+can I get tracking info for my order?,order_tracking
+where is my shipment?,order_tracking
+how can I follow my order?,order_tracking
+how do I track my purchase?,order_tracking
+check my order status,order_tracking
+what is my order status?,order_tracking
+how do I see my tracking info?,order_tracking
+can I follow my package?,order_tracking
+how to track my order online?,order_tracking
+can I track my order by email?,order_tracking
+how do I find my shipment?,order_tracking
+what tracking options are available?,order_tracking
+can I track my delivery?,order_tracking
+how can I see my shipment details?,order_tracking
+track my order online,order_tracking
+how to check my order status?,order_tracking
+where can I see my package status?,order_tracking
+how can I follow my shipment?,order_tracking
+how to track delivery?,order_tracking
+check shipment status,order_tracking
+can I get updates on my order?,order_tracking
+what is the delivery status?,order_tracking
+how can I check my delivery?,order_tracking
+where is my delivery?,order_tracking
+how to know the location of my order?,order_tracking
+can I track my order via website?,order_tracking
+how to see where my order is?,order_tracking
+check package status,order_tracking
+how do I track shipment?,order_tracking
+how can I monitor my order?,order_tracking
+can I track my order using a tracking number?,order_tracking
+how do I check delivery status?,order_tracking
+track shipment online,order_tracking
+how do I follow my delivery?,order_tracking
+where can I find tracking info?,order_tracking
+how do I know when my package will arrive?,order_tracking
+how to check where my order is?,order_tracking
+can I track my order via app?,order_tracking
+what is the tracking number for my order?,order_tracking
+how can I see estimated delivery?,order_tracking
+how do I know the delivery date?,order_tracking
+how to find order status?,order_tracking
+can I track my shipment by email?,order_tracking
+how do I know if my order has shipped?,order_tracking
+how to track my order status?,order_tracking
+what payment methods do you accept?,payment_methods
+which payment options are available?,payment_methods
+can I pay using PayPal?,payment_methods
+do you accept credit cards?,payment_methods
+do you take debit cards?,payment_methods
+is Cash on Delivery available?,payment_methods
+can I use Google Pay to pay?,payment_methods
+how can I pay for my order?,payment_methods
+are online payments supported?,payment_methods
+what forms of payment are accepted?,payment_methods
+can I pay with my Visa card?,payment_methods
+can I use Mastercard for payment?,payment_methods
+do you accept American Express?,payment_methods
+can I pay using UPI?,payment_methods
+can I pay using Apple Pay?,payment_methods
+can I pay with a gift card?,payment_methods
+do you accept PayPal for all orders?,payment_methods
+what online payment methods do you support?,payment_methods
+can I use multiple payment methods?,payment_methods
+can I split payment between card and PayPal?,payment_methods
+how do I make a payment?,payment_methods
+which cards can I use?,payment_methods
+can I pay using mobile wallets?,payment_methods
+do you accept Google Pay?,payment_methods
+can I pay via phone?,payment_methods
+can I pay through net banking?,payment_methods
+are cryptocurrency payments accepted?,payment_methods
+what is the payment process?,payment_methods
+can I pay offline?,payment_methods
+can I pay at delivery?,payment_methods
+how can I complete my payment?,payment_methods
+what is the safest way to pay?,payment_methods
+do you accept bank transfers?,payment_methods
+can I pay using Paytm?,payment_methods
+can I pay using debit and credit cards?,payment_methods
+do you accept international cards?,payment_methods
+can I pay using a virtual card?,payment_methods
+what digital wallets can I use?,payment_methods
+is online payment mandatory?,payment_methods
+can I pay using QR code?,payment_methods
+are instalment payments available?,payment_methods
+can I pay using a prepaid card?,payment_methods
+can I pay using my phone?,payment_methods
+do you support payment through apps?,payment_methods
+how can I pay without a credit card?,payment_methods
+what payment options are there for guests?,payment_methods
+can I pay after delivery?,payment_methods
+do you accept payments via app?,payment_methods
+how to pay if I don’t have a card?,payment_methods
+which payment method is recommended?,payment_methods
+can I pay using internet banking?,payment_methods
+what are all the ways I can pay?,payment_methods
+what is your return policy?,return_policy
+can I return my order?,return_policy
+how do I return a product?,return_policy
+what are the steps to return an item?,return_policy
+can I exchange a product?,return_policy
+is it possible to return an item?,return_policy
+how long do I have to return a product?,return_policy
+can I get a refund?,return_policy
+what items are eligible for return?,return_policy
+can I return a damaged product?,return_policy
+can I return a product if I changed my mind?,return_policy
+what is the time frame for returns?,return_policy
+how do I cancel my order?,return_policy
+can I return a final sale item?,return_policy
+what should I do to return a product?,return_policy
+can I return an item purchased online?,return_policy
+how do I return a product I received?,return_policy
+is there a deadline for returns?,return_policy
+can I return a product without the original packaging?,return_policy
+can I return a product purchased on sale?,return_policy
+what is your exchange policy?,return_policy
+can I replace a defective item?,return_policy
+how do I request a refund?,return_policy
+can I return a gift item?,return_policy
+what is your refund policy?,return_policy
+can I return multiple items at once?,return_policy
+are returns free of charge?,return_policy
+how do I send back a product?,return_policy
+can I return an item to the store?,return_policy
+can I return a product if it was partially used?,return_policy
+can I return a subscription product?,return_policy
+what documents are needed for a return?,return_policy
+can I return an item without a receipt?,return_policy
+do I get a full refund for returns?,return_policy
+can I return a product purchased during promotion?,return_policy
+can I return a clearance item?,return_policy
+how long until I get my refund?,return_policy
+can I cancel my order after shipping?,return_policy
+can I return a product if it arrived late?,return_policy
+can I return a product if it is broken?,return_policy
+can I return a product I ordered by mistake?,return_policy
+can I get store credit instead of refund?,return_policy
+how do I exchange for a different size?,return_policy
+can I return a product purchased in-store?,return_policy
+can I return a product if the packaging is opened?,return_policy
+what items cannot be returned?,return_policy
+can I return a product after 30 days?,return_policy
+can I return a product bought online to a physical store?,return_policy
+how do I initiate a return?,return_policy
+can I return an item if I am not satisfied?,return_policy
+how can I create an account?,account_management
+what’s the process to sign up for an account?,account_management
+how do I register on your website?,account_management
+can you tell me how to create a new account?,account_management
+I want to make an account; how do I do it?,account_management
+steps for signing up for your platform?,account_management
+how do I open a new account?,account_management
+is there a way to register for your service?,account_management
+can I make an account online?,account_management
+do I need an account to place an order?,account_management
+is it possible to buy as a guest?,account_management
+can I purchase without signing up?,account_management
+I don’t want to register; can I still order?,account_management
+is account creation mandatory for shopping?,account_management
+how can I order without an account?,account_management
+can I checkout as a guest?,account_management
+do I need to make an account to buy?,account_management
+how do I sign in?,account_management
+how do I log in?,account_management
+what is the login process?,account_management
+how can I access my account?,account_management
+how do I enter my account?,account_management
+can I use my account credentials to log in?,account_management
+how do I open my account page?,account_management
+I forgot my login details what should I do?,account_management
+how do I recover my account?,account_management
+how do I reset my password?,account_management
+can I change my password?,account_management
+I want to update my account info how?,account_management
+how do I edit my account details?,account_management
+how do I update my profile?,account_management
+can I delete my account?,account_management
+how do I close my account?,account_management
+how to register a new account?,account_management
+can I create multiple accounts?,account_management
+what info do I need to sign up?,account_management
+do I need email to register?,account_management
+do I need phone number for registration?,account_management
+can I sign up using Google?,account_management
+can I register using Facebook?,account_management
+can I sign up with my social media account?,account_management
+how do I verify my account?,account_management
+what is account verification process?,account_management
+how do I confirm my email for account?,account_management
+how to activate my account?,account_management
+how do I log out?,account_management
+can I sign out of my account?,account_management
+how do I manage my account settings?,account_management
+how do I check my account status?,account_management
+what is my account balance?,account_management
+how can I see my order history?,account_management
+how can I create an account?,account_management
+what’s the process to sign up for an account?,account_management
+how do I register on your website?,account_management
+can you tell me how to create a new account?,account_management
+I want to make an account; how do I do it?,account_management
+steps for signing up for your platform?,account_management
+how do I open a new account?,account_management
+is there a way to register for your service?,account_management
+can I make an account online?,account_management
+do I need an account to place an order?,account_management
+is it possible to buy as a guest?,account_management
+can I purchase without signing up?,account_management
+I don’t want to register; can I still order?,account_management
+is account creation mandatory for shopping?,account_management
+how can I order without an account?,account_management
+can I checkout as a guest?,account_management
+do I need to make an account to buy?,account_management
+how do I sign in?,account_management
+how do I log in?,account_management
+what is the login process?,account_management
+how can I access my account?,account_management
+how do I enter my account?,account_management
+can I use my account credentials to log in?,account_management
+how do I open my account page?,account_management
+I forgot my login details what should I do?,account_management
+how do I recover my account?,account_management
+how do I reset my password?,account_management
+can I change my password?,account_management
+I want to update my account info how?,account_management
+how do I edit my account details?,account_management
+how do I update my profile?,account_management
+can I delete my account?,account_management
+how do I close my account?,account_management
+how to register a new account?,account_management
+can I create multiple accounts?,account_management
+what info do I need to sign up?,account_management
+do I need email to register?,account_management
+do I need phone number for registration?,account_management
+can I sign up using Google?,account_management
+can I register using Facebook?,account_management
+can I sign up with my social media account?,account_management
+how do I verify my account?,account_management
+what is account verification process?,account_management
+how do I confirm my email for account?,account_management
+how to activate my account?,account_management
+how do I log out?,account_management
+can I sign out of my account?,account_management
+how do I manage my account settings?,account_management
+how do I check my account status?,account_management
+what is my account balance?,account_management
+how can I see my order history?,account_management
+How can I track my order?,order_tracking
+Where is my package?,order_tracking
+I want to know my shipment status,order_tracking
+Can I see where my order is?,order_tracking
+How do I check my order?,order_tracking
+Track my order,order_tracking
+Check my shipment status,order_tracking
+What’s the status of my delivery?,order_tracking
+How can I follow my order?,order_tracking
+Where is my delivery right now?,order_tracking
+I need to track my package,order_tracking
+Order tracking information,order_tracking
+Can I track my shipment?,order_tracking
+Check my order location,order_tracking
+Track my delivery,order_tracking
+How to track my order online?,order_tracking
+How do I find my order?,order_tracking
+Order status,order_tracking
+Is my package shipped?,order_tracking
+When will my order arrive?,order_tracking
+Can I track my order online?,order_tracking
+How can I follow my package?,order_tracking
+Shipment tracking,order_tracking
+How do I know my order status?,order_tracking
+Where is my order right now?,order_tracking
+I want to track my delivery,order_tracking
+How can I get tracking details?,order_tracking
+Order location status,order_tracking
+Check shipment progress,order_tracking
+How can I follow my shipment?,order_tracking
+Track my online order,order_tracking
+Shipment info,order_tracking
+Track order delivery,order_tracking
+Where’s my order?,order_tracking
+Track the package I ordered,order_tracking
+Delivery tracking info,order_tracking
+I need my order status,order_tracking
+Can I check my package status?,order_tracking
+Check my delivery status,order_tracking
+How do I see my shipment?,order_tracking
+Tracking my order,order_tracking
+Order tracking help,order_tracking
+How do I follow my delivery?,order_tracking
+Can I see my package?,order_tracking
+Get order status,order_tracking
+Track my shipped order,order_tracking
+Check order delivery,order_tracking
+Where is my shipped package?,order_tracking
+Order tracking assistance,order_tracking
+How do I monitor my shipment?,order_tracking
+Track order status online,order_tracking
+Where is my shipment?,order_tracking
+What is your return policy?,return_policy
+How can I return a product?,return_policy
+Can I return my order?,return_policy
+I want to return my purchase,return_policy
+How do I send back an item?,return_policy
+Can I get a refund?,return_policy
+What are the steps to return an item?,return_policy
+Is it possible to return a product?,return_policy
+How long do I have to return an order?,return_policy
+What items are eligible for return?,return_policy
+Can I exchange my product?,return_policy
+How do I cancel my order?,return_policy
+I want to return a product,return_policy
+Can I return a purchase I made?,return_policy
+Return procedure,return_policy
+How can I make a return?,return_policy
+What is the process to return an item?,return_policy
+Can I return my purchase after 15 days?,return_policy
+Is there a time limit to return an order?,return_policy
+How do I request a refund?,return_policy
+How do I return an item I bought?,return_policy
+Return policy details,return_policy
+Can I return if I don’t like it?,return_policy
+Do you allow returns?,return_policy
+Can I return a damaged product?,return_policy
+Can I return a product purchased online?,return_policy
+Return instructions,return_policy
+Can I return a gift item?,return_policy
+How do I exchange or return an order?,return_policy
+Return guidelines,return_policy
+How do I return an item to your store?,return_policy
+What is your cancellation and return policy?,return_policy
+Can I return a final sale item?,return_policy
+Are returns free?,return_policy
+How to return a product purchased online?,return_policy
+Can I return if I changed my mind?,return_policy
+How long does it take to get a refund?,return_policy
+Can I return without receipt?,return_policy
+Return eligibility,return_policy
+How can I cancel or return a product?,return_policy
+Can I return multiple items?,return_policy
+Do you provide return labels?,return_policy
+Can I return after delivery?,return_policy
+How to process a return?,return_policy
+Can I return partially used items?,return_policy
+Return policy for online orders,return_policy
+Can I return a subscription item?,return_policy
+Can I return a defective product?,return_policy
+Steps to get a refund,return_policy
+Return and exchange policy,return_policy
+question,intent
+How can I contact customer support?,support_services
+What is your support email?,support_services
+Is there a phone number for support?,support_services
+Can I reach support by live chat?,support_services
+How do I get in touch with customer service?,support_services
+Where can I ask questions about my order?,support_services
+Who do I contact for help?,support_services
+I need assistance who can help?,support_services
+How can I reach the help desk?,support_services
+Can I email your support team?,support_services
+Support contact information, support_services
+How do I report an issue with my order?,support_services
+Can I speak to a support agent?,support_services
+How do I request support?,support_services
+How can I submit a complaint?,support_services
+What is the customer support phone number?,support_services
+Can I chat with a support representative?,support_services
+How do I escalate an issue?,support_services
+Where can I get help for a problem?,support_services
+Can I contact support after business hours?,support_services
+How can I reach technical support?,support_services
+How to contact customer service?,support_services
+Can I send a message to support?,support_services
+Who handles customer queries?,support_services
+I need help with my order who can I contact?,support_services
+Can I submit a ticket to support?,support_services
+Customer support email address, support_services
+How can I talk to a support representative?,support_services
+How do I resolve an issue with my order?,support_services
+Can I contact support via chat?,support_services
+I have a problem with my order who do I contact?,support_services
+Can I get help with my purchase?,support_services
+How do I reach out to customer support?,support_services
+Support phone number, support_services
+Can I request assistance?,support_services
+Who can help me with my order?,support_services
+How can I report a problem?,support_services
+Is there a live chat for support?,support_services
+How do I reach customer care?,support_services
+Help me with my order support needed, support_services
+How can I get help with my account?,support_services
+Can I contact support via email?,support_services
+How to submit a complaint?,support_services
+Who do I contact for order issues?,support_services
+Where can I find support?,support_services
+How do I speak with a support agent?,support_services
+Can I reach customer service by phone?,support_services
+How do I contact support for returns?,support_services
+Can I contact support for technical issues?,support_services
+How do I request a refund through support?,support_services
+How do I get help with my order status?,support_services
+question,intent
+Do you offer gift wrapping services?,product_info
+Can I order a product as a gift?,product_info
+Can I request a product demonstration before purchase?,product_info
+Can I order a product that is out of stock?,product_info
+How can I leave a product review?,product_info
+Do you provide installation services for products?,product_info
+Can I request a product that is labeled as 'limited edition'?,product_info
+Can I request a custom order or personalized product?,product_info
+Do you have specifications for the products?,product_info
+How can I check product availability?,product_info
+Is there a manual for this product?,product_info
+Can I see pictures of the product?,product_info
+Do you provide product videos or tutorials?,product_info
+What colors are available for this product?,product_info
+Can I request a specific color?,product_info
+Can I request a product if it is temporarily unavailable?,product_info
+Do you have warranty information for products?,product_info
+How do I request product support?,product_info
+Can I get technical details about a product?,product_info
+Do you provide sizing charts for products?,product_info
+Can I request a product repair or replacement?,product_info
+How can I check product specifications?,product_info
+Are product manuals downloadable?,product_info
+Do you provide user guides for products?,product_info
+Can I request a product sample?,product_info
+Can I pre-order a product?,product_info
+Is there a product catalog available?,product_info
+Can I reserve a product that is out of stock?,product_info
+Do you provide product comparison info?,product_info
+How do I know if a product is authentic?,product_info
+Are there product demos available?,product_info
+Can I see reviews from other customers?,product_info
+Can I request a product in a specific size?,product_info
+Can I order a discontinued product?,product_info
+Can I check the availability of a limited edition product?,product_info
+Do you provide product updates or notifications?,product_info
+Can I request a product if it’s coming soon?,product_info
+Do you have technical specifications for products?,product_info
+Can I check product features online?,product_info
+Can I order a product in bulk?,product_info
+Can I request a product replacement?,product_info
+Do you provide guidance on product usage?,product_info
+Are installation instructions available?,product_info
+Can I request a product demonstration at home?,product_info
+Can I get a gift card with a product?,product_info
+Do you provide special editions or collector items?,product_info
+Can I request product customization?,product_info
+Are there eco-friendly product options?,product_info
+How do I check the material of a product?,product_info
+Can I request an item that is temporarily unavailable?,product_info
+Do you provide product guides for new users?,product_info
+Can I check product compatibility with accessories?,product_info

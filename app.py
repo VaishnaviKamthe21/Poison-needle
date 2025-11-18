@@ -4,7 +4,7 @@ from flask_cors import CORS
 import os
 
 from chatbot import get_response
-from core import bcrypt, jwt, get_db  # import from core
+from core import bcrypt, jwt, get_db  
 
 app = Flask(__name__)
 app.config["JWT_SECRET_KEY"] = os.getenv("JWT_SECRET_KEY", "change_this_very_long_random_secret")

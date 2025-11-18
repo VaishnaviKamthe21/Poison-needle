@@ -1,0 +1,10 @@
+product_id,name,description,price,image_url,inventory_qty,is_active,created_at
+1,Handmade Teddy,"Soft crochet teddy bear, perfect gift.",450.0,https://i.pinimg.com/736x/0a/d3/38/0ad33846403dbbc03a6f8aa89660e146.jpg,10,1,2025-10-29 18:41:49
+2,Crochet Scarf,Warm minimal crochet scarf.,350.0,https://i.pinimg.com/736x/f6/f0/49/f6f0490e4025e5614774bb943c0535a8.jpg,18,1,2025-10-29 18:41:49
+3,Amigurumi Keychain,Mini amigurumi keychain with cute details.,150.0,https://i.pinimg.com/736x/33/e6/8f/33e68fa96648b49fd90bc5d01d03e494.jpg,10,1,2025-10-29 18:41:49
+4,Handmade Teddy,Classic plush crochet teddy.,450.0,https://i.pinimg.com/1200x/d1/0a/35/d10a35b990964fe88d446595f3bfc278.jpg,10,1,2025-10-29 18:41:49
+5,Crochet Scarf,Lightweight crochet scarf for daily wear.,350.0,https://i.pinimg.com/736x/49/d4/4e/49d44ee86c27da0428bfda907baa7f34.jpg,16,1,2025-10-29 18:41:49
+6,Amigurumi Keychain,"Handmade keychain, ideal for gifting.",150.0,https://i.pinimg.com/1200x/5e/28/0c/5e280cea0e8cb794bcf425f50d2665e7.jpg,40,1,2025-10-29 18:41:49
+7,Handmade Teddy,"Premium yarn teddy, ultra soft.",450.0,https://i.pinimg.com/736x/ef/ec/23/efec23ef2a6d772130ffd4f6ba6e9fe1.jpg,9,1,2025-10-29 18:41:49
+8,Crochet Scarf,Neutral tones crochet scarf.,350.0,https://i.pinimg.com/1200x/bb/4d/ce/bb4dce73122b97013c01c656ff5b8e33.jpg,22,1,2025-10-29 18:41:49
+9,Amigurumi Keychain,Compact amigurumi charm.,150.0,https://i.pinimg.com/1200x/b0/04/74/b0047440a961ddfb65f45ead7ba31b98.jpg,35,1,2025-10-29 18:41:49

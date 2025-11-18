@@ -8,6 +8,7 @@ import Login from "./Login";
 import Register from "./Register";
 import Restock from "./Restock";
 import { AuthProvider, AuthContext } from "./AuthContext";
+import AnalyticsDashboard from './AnalyticsDashboard';
 
 function NavAuthButtons(){
   const nav = useNavigate();
@@ -41,6 +42,7 @@ function AppRoutes(){
             <Link className="btn btn-secondary btn-sm me-2 nav-btn" to="/complaint">Submit</Link>
             <Link className="btn btn-secondary btn-sm me-2 nav-btn" to="/view">View Complaints</Link>
             <Link className="btn btn-secondary btn-sm me-2 nav-btn" to="/restock">Restock</Link>
+            <Link className="btn btn-info btn-sm me-2 nav-btn" to="/analytics">Analytics</Link>
 
             <NavAuthButtons />
           </div>
@@ -55,6 +57,7 @@ function AppRoutes(){
         <Route path="/restock" element={<Restock />} />
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
+        <Route path="/analytics" element={<AnalyticsDashboard />} />
       </Routes>
     </div>
   );
